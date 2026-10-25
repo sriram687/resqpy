@@ -1,6 +1,5 @@
 # IDE settings
 .idea
-.vscode
 
 # Checkpoints
 .ipynb_checkpoints
@@ -34,3 +33,5 @@ resqpy/olio/data/*.xsd
 
 # Dask
 dask-worker-space
+config.bat
+node_modules
